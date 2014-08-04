@@ -1,5 +1,5 @@
-Spirality is a JavaScript micro-framework for Node.js based on Observer
-pattern.
+Spirality is a JavaScript micro-framework based on [Node.js](http://nodejs.org)
+and [Observer pattern](http://en.wikipedia.org/wiki/Observer_pattern).
 
 Spirality is designed to program business logic of web-applications with
 [object-oriented

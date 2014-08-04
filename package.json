@@ -1,7 +1,7 @@
 {
   "name": "spirality",
   "version": "0.2.0",
-  "description": "Micro-framework for Node.js based on Observer pattern",
+  "description": "Experimental micro-framework based on Observer pattern",
   "keywords": [
     "micro-framework",
     "event",
@@ -16,5 +16,6 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/signaldetect/spirality"
-  }
+  },
+  "license": "MIT"
 }
