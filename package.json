@@ -1,0 +1,20 @@
+{
+  "name": "spirality",
+  "version": "0.2.0",
+  "description": "Micro-framework for Node.js based on Observer pattern",
+  "keywords": [
+    "micro-framework",
+    "event",
+    "effect",
+    "observer",
+    "reaction"
+  ],
+  "author": {
+    "name": "Max Sukhorukov",
+    "email": "signaldetect@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/signaldetect/spirality"
+  }
+}

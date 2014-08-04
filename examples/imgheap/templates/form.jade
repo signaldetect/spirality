@@ -1,0 +1,10 @@
+doctype html
+html
+  head
+    title= title
+  body
+    form(method='post', action='/upload', enctype='multipart/form-data')
+      div
+        label(for='file_image') Image
+        input(type='file', id='file_image', name='image')
+      input(type='submit', value='Upload image')
